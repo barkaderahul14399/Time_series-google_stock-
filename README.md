@@ -8,5 +8,6 @@
  making nn model
  compile & Fit data
  Check Accuracy
+ tune for Best Values of Dropouts And LSTM Layers
  Apply on Testing Set
  
